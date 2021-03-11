@@ -28,11 +28,11 @@ I enjoy supporting and following `entrepreneurial` peoples and innovative projec
 <h2>⚙️ GitHub Analytics</h2>
 
 <p align="center">
-  <a style="margin:10px;" href="https://github.com/burakakkas">
+  <a href="https://github.com/burakakkas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakakkas&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide=contribs,prs"/>
   </a>
 
-  <a style="margin:10px;" href="https://github.com/burakakkas">
+  <a href="https://github.com/burakakkas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakakkas&layout=compact&theme=blueberry&exclude_repo=burakakkas.github.io" />
   </a>
   <!---
