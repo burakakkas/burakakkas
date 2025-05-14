@@ -1,6 +1,6 @@
 <h1 align="center" >Hello There,  I'm Yiğit Burak Akkaş</h1>
 <h2>About Me</h2>
-<img align="right" width="130px" style="margin-top:100px" src="src/pp_low_500.png" alt="profile-picture"/>
+<img align="right" width="130px" style="margin-top:100px" src="src/yba_0_low.png" alt="profile-picture"/>
 
 <!---
 <a href="https://ybakkas.com">
