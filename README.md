@@ -1,7 +1,7 @@
 <h1 align="center" >Hello There,  I'm Yiğit Burak Akkaş</h1>
-<img align="right" width="130px" src="src/pp_low_500.png" alt="profile-picture"/>
-
 <h2>About Me</h2>
+<img align="right" width="130px" style="margin-top:100px" src="src/pp_low_500.png" alt="profile-picture"/>
+
 <!---
 <a href="https://ybakkas.com">
     <img src="https://img.shields.io/badge/Machine Learning Engineer / Ml--Ops Engineer - %20%E2%86%92-gray.svg?  colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
