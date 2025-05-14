@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Machine Learning Engineer / Ml--Ops Engineer - %20%E2%86%92-gray.svg?  colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
   --->
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-AB45CC?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pxiess.jpg/)](https://instagram.com/pxiess.jpg/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakakkas/)](https://www.linkedin.com/in/burakakkas/)
 [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:burakakkas55@gmail.com)](mailto:burakakkas55@gmail.com)
