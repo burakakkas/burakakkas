@@ -2,17 +2,18 @@
 <img align="right" width="130px" src="src/pp_low_500.png" alt="profile-picture"/>
 
 <h2>About Me</h2>
+<!---
 <a href="https://ybakkas.com">
     <img src="https://img.shields.io/badge/Machine Learning Engineer / Ml--Ops Engineer - %20%E2%86%92-gray.svg?  colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
-
+  --->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-AB45CC?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/pxiess.jpg/)](https://instagram.com/pxiess.jpg/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burakakkas/)](https://www.linkedin.com/in/burakakkas/)
 [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white&link=mailto:burakakkas55@gmail.com)](mailto:burakakkas55@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=opera&logoColor=white&link=https://ybakkas.com/)](https://ybakkas.com/)
 
 
-I am currently working as a `Machine Learning Engineer` at `TURKAI`
+I am currently working as a `Machine Learning Engineer` at `Jotform`
 
 I graduated from the `Computer Engineering` Department of the University of the Turkish Aeronautical Association.
 
